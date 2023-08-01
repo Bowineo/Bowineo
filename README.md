@@ -6,14 +6,14 @@
   
   Aqui no meu GitHub você pode encontrar alguns dos meus projetos pessoais e ver algumas das tecnologias que já trabalhei. Sinta-se à vontade para explorar e, se quiser, deixar algum feedback ou entrar em contato comigo para mais informações.
 	
- Obrigado por visitar meu perfil e espero poder colaborar com você em algum projeto futuro!  </h3>
+ Obrigado por visitar meu perfil e espero poder colaborar com você em algum projeto futuro!  
  
   - 🔭 Atualmente estou trabalhando em desenvolvimento de aplicativos flutter
   - 🌱 Atualmente estou aprendendo sobre testes e CI/CD
   - 👯 Estou procurando colaborar em flutter e packages flutter
   - 💬 Pergunte-me sobre Flutter
   - 📫 Contate me em: pedro_mts@hotmail.com
-  - ⚡ Curiosidade: Sou um grandes apreciador de jogos estilo 'SoulsLike'
+  - ⚡ Curiosidade: Sou um grandes apreciador de jogos estilo 'SoulsLike' </h3>
 
 ###
 
