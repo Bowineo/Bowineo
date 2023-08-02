@@ -13,7 +13,7 @@
   - 👯 Estou procurando colaborar em flutter e packages flutter
   - 💬 Pergunte-me sobre Flutter
   - 📫 Contate me em: pedro_mts@hotmail.com
-  - ⚡ Curiosidade: Sou um grandes apreciador de jogos estilo 'SoulsLike' </h3>
+  - ⚡ Curiosidade: Sou um grande apreciador de jogos estilo 'SoulsLike' </h3>
 
 ###
 
