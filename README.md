@@ -1,23 +1,24 @@
-<h1 align="left">Olá 👋, sou o Pedro!</h1>
+<h1 align="left">Hello 👋, I'm Pedro!</h1>
 
-  <h3 Entusiasta de engenharia e desenvolvimento de aplicações e sistemas, principalmente pela possibilidade de criar ou melhorar algo que já exista agregando valor, facilitando e impactando positivamente o trabalho e a vida das pessoas. 
+
+<h3 Enthusiastic about engineering and development of applications and systems, mainly because of the possibility of creating or improving something that already exists, adding value, facilitating and positively impacting people's work and lives.
   
-  Como desenvolvedor sempre busco novos conhecimentos, desafios e tecnologias que me proporcionem ser um desenvolvedor cada vez melhor. Possuo conhecimentos em Flutter, C#, JavaScript, Python, Docker, Git e Metodologias Ágeis.
+   As a developer, I'm always looking for new knowledge, challenges and technologies that allow me to become an even better developer. I have knowledge in Flutter, C#, JavaScript, Python, Docker, Git and Agile Methodologies.
   
-  Aqui no meu GitHub você pode encontrar alguns dos meus projetos pessoais e ver algumas das tecnologias que já trabalhei. Sinta-se à vontade para explorar e, se quiser, deixar algum feedback ou entrar em contato comigo para mais informações.
-	
- Obrigado por visitar meu perfil e espero poder colaborar com você em algum projeto futuro!  
+   Here on my GitHub you can find some of my personal projects and see some of the technologies I've worked on. Feel free to explore and, if you like, leave some feedback or contact me for more information.
+
+  Thank you for visiting my profile and I hope I can collaborate with you on some future project!
  
-  - 🔭 Atualmente estou trabalhando em desenvolvimento de aplicativos flutter
-  - 🌱 Atualmente estou aprendendo sobre testes e CI/CD
-  - 👯 Estou procurando colaborar em flutter e packages flutter
-  - 💬 Pergunte-me sobre Flutter
-  - 📫 Contate me em: pedro_mts@hotmail.com
-  - ⚡ Curiosidade: Sou um grande apreciador de jogos estilo 'SoulsLike' </h3>
+   - 🔭 I am currently working on flutter app development
+   - 🌱 I am currently learning about testing and CI/CD
+   - 👯 I'm looking to collaborate on flutter and packages flutter
+   - 💬 Ask me about Flutter
+   - 📫 Contact me at: pedro_mts@hotmail.com
+   - ⚡ Fun fact: I'm a big fan of 'SoulsLike' style games </h3>
 
 ###
 
-<h2 align="center">Contatos </h2>
+<h2 align="center">Contacts </h2>
 <div align="center">
   
 
@@ -27,7 +28,7 @@
 
 ###
 
-  <h2 align="center"> Linguagens e Ferramentas</h2>
+  <h2 align="center"> Languages and Tools </h2>
  
   
   
